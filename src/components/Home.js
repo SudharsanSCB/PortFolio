@@ -15,7 +15,7 @@ return (
                 Passionate Blockchain Developer with a strong foundation in ReactJS, Solidity, and AWS. Experienced in building decentralized applications and smart contracts. Committed to leveraging blockchain technology to create innovative solutions.
             </div>
             
-            <a href="/democv.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
+            <a href="https://drive.google.com/file/d/1uzbys-nIJLBRmv9P60G4PnUTOo48pQNL/view" target="_blank" rel="noopener noreferrer" className='animation active '>
                 Download My CV
             </a>
         </div>
